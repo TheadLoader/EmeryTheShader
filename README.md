@@ -1,61 +1,17 @@
-Emanrux Shader - An Edition of Eclipse
+EmeryTheShader Shader - An Edition of Emanrux
 ------------------------------------------
-Eclipse is already an excellent shader; the work of Chocapic13, modified by Xonk and then further modified by Merlin1809 is incredible. 
+Emanrux is already an excellent shader; the work of Chocapic13, modified by Xonk and then further modified by Merlin1809 the even further modified by Emanrus_Dev is incredible. 
 I added and adjusted features that I always wanted to have in a shader.
-
-It started as a personal project for my friends and me, but after posting it on Reddit I realized many people were interested. 
-So, I decided to release an official version. 
-I value optimization that does not compromise visual fidelity, so my goal has always been the balance between quality and performance.
-
-This shader is currently under testing and is not a final version by any means. There are still bugs to fix and more features to add, so stay tuned for future updates and improvements.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-All Eclipse features, plus:
+All Emanrux features, exept removing shader grass plus:
 
-- Dynamic Rain on Glass (light/realistic): Raindrops that slide down realistically.
-
-- Frosted Glass: Frost effects on windows in snowy biomes.
-
-- Borderless Connected Glass: Clearer glass without needing a texture pack.
-
-- Reflections on Key Blocks: Added to blocks like quartz or purpur.
-
-- Emissive Blocks: Improved glow for blocks like Redstone.
-
-- Enhanced Ores: Brighter and more visible ores.
-
-- Custom Nether Portal: Added a unique spiral effect.
-
-- Galaxy Sky: Featuring stars, planets, and black holes.
-
-- The enchanting table now has magical spirals surrounding it.
-
-- Souls appear at the edge of the screen when near soul light (Emanrux Config: "Soul Presence")
-
-- Fixed blue fire color correction when a mob burns near soul fire. Soul light takes over the player's skin and some mobs, tinting pixels blue.
-
-- Parallax occlusion mapping (POM) for many more blocks and "3D" minerals with POM enabled. (disabled by default for performance reasons) 
-
-- 3 selectable Lens Flare types when looking at the sun.
-
-- 5 new detailed planets, toggleable, for both the Overworld and the End.
-
-- Complete End dimension overhaul: new lighting, shadows, and colors based on the light source. A moving black hole has been added, with a screen shake and zoom-in effect when looking directly at it.
-
-- Spiral vortex in the void of the End.
-
-- Meteors in the night sky and the End.
-
-- Wandering dragons fly through the End, adding atmosphere and life to its sky.
-
-- Cloud Optimization: Reduced excessive cloud layers for better light passage and effects.
-
-- Code Cleanup: Performance optimization and removal of redundant features without reducing visual quality.
-
-- Performance Boost: Removed "Shader Grass" to ensure higher FPS.
-
-- Added support for multiple languages in Emanrux Settings, including English, Spanish, French, German, Portuguese, Italian, Russian, and Chinese.
-
+- Entity ripples for lava and water
+- [ SOON ] Raytracing
+- procedual lava pretty bad rn
+- [ SOON ] Tall grass shader grass
+- cool looking fire
+- iPBR doesnt really work but i will still put it here
+- blocky clouds toggle
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="800" alt="2" src="https://github.com/user-attachments/assets/3026d14d-b960-4ab5-9ff1-3ea7240f73e8" />
 <img width="800" alt="17" src="https://github.com/user-attachments/assets/88026636-2bc7-4bae-84c4-0a5087a5651a" />
@@ -88,6 +44,9 @@ https://github.com/X0nk/Bliss-Shader
 
 Merlin1809, for the fabulous Eclipse shaders.
 https://github.com/Merlin1809/Eclipse-Shader
+
+Emanrux_Dev, for the monumental Emanrux shader.
+https://github.com/Emanrux-dev/Emanrux-Shader
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Compatibility
 - Iris Shaders
@@ -95,10 +54,10 @@ https://github.com/Merlin1809/Eclipse-Shader
 - Distant Horizon
 - Voxy
 - Photonics 1.21.11+
-- Any Size Portals Mod
+
 
 ## Contact
-Discord: https://discord.gg/mgfRFdjT7D
+Discord: https://discord.gg/yE49CUNpnW
 
 ## Download 
 How to download the latest version:
