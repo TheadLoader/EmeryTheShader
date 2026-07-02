@@ -14,6 +14,7 @@ All Emanrux features, exept removing shader grass plus:
 - blocky clouds toggle
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="800" alt="2" src="https://github.com/user-attachments/assets/3026d14d-b960-4ab5-9ff1-3ea7240f73e8" />
+<img width="800" src="https://media.forgecdn.net/attachments/description/null/description_fac8f287-4ca7-46be-b3da-b344d975b9a6.png">
 <img width="800" alt="17" src="https://github.com/user-attachments/assets/88026636-2bc7-4bae-84c4-0a5087a5651a" />
 <img width="800" alt="001" src="https://github.com/user-attachments/assets/cfccf7ac-9c3f-48da-a502-ccb3f3547fd1" />
 <img width="800" alt="1" src="https://github.com/user-attachments/assets/502dbd21-ed6b-4808-ae9b-78a6c6f4d37c" />
@@ -23,11 +24,6 @@ All Emanrux features, exept removing shader grass plus:
 <img width="800" alt="8" src="https://github.com/user-attachments/assets/0e1e8783-2ee9-413c-a5dd-9ac94c87c470" />
 <img width="800" alt="9" src="https://github.com/user-attachments/assets/e0ead02e-fdcf-4f6b-9c28-9adb0c4f4046" />
 <img width="800" alt="10" src="https://github.com/user-attachments/assets/9dca7a17-f08e-4de8-aef8-6a18c0ddf75f" />
-<img width="800" alt="442" src="https://github.com/user-attachments/assets/f6ba9e45-0305-4d60-9bbd-a7b98ed7ba02" />
-<img width="800" alt="225" src="https://github.com/user-attachments/assets/dc648f1f-2912-4e96-bf82-3963a9d1808d" />
-<img width="800" alt="Rain" src="https://github.com/user-attachments/assets/d2acbc66-883a-4855-9dd7-d8ca2a04300a" />
-<img width="800" alt="26" src="https://github.com/user-attachments/assets/f662468f-a9a1-41aa-889b-48612ff5425f" />
-
 <img width="800" alt="27" src="https://github.com/user-attachments/assets/f3d0621f-72e3-479a-8968-f11135e6be4a" />
 <img width="800" alt="118" src="https://github.com/user-attachments/assets/b0a1b864-96b9-45b2-91e3-727ab721ce5d" />
 <img width="800" alt="11" src="https://github.com/user-attachments/assets/85a6fba0-db78-4897-83a9-eae2ebc248b1" />
