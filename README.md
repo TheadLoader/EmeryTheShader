@@ -1,6 +1,6 @@
 EmeryTheShader Shader - An Edition of Emanrux
 ------------------------------------------
-Emanrux is already an excellent shader; the work of Chocapic13, modified by Xonk and then further modified by Merlin1809 the even further modified by Emanrus_Dev is incredible. 
+EmeryTheShader is already an excellent shader; the work of Chocapic13, modified by Xonk and then further modified by Merlin1809 the even further modified by Emanrus_Dev is incredible. 
 I added and adjusted features that I always wanted to have in a shader.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All Emanrux features, exept removing shader grass plus:
